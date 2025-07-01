@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shop.pgloader.io/sitemap_index.xml
